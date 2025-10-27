@@ -6,17 +6,17 @@ Assesssment by CifarX
 
 ## api = "https://dummyjson.com/products"
 
-## Requirements                 Status
-1. Pagination                   Done
-2. Infinite Scrolling           Done
-3. State Management             Bloc
-4. Architecture                 Clean Architecture 
-5. Error handling               Dedicated Error Mapper 
-6. Retry Mechanism              Implemented
-7. Navigation                   GoRouter
-8. Functional Programming       Dartz (Either<Left, Right>)  
+## Features and Principles Implemented in this application:
+1. Pagination                   
+2. Infinite Scrolling           
+3. State Management (Bloc)
+4. Clean Architecture 
+5. Proper Error Handling 
+6. Retry Mechanism    
+7. Navigation with GoRouter
+8. Functional Programming (Dartz)  
 
-## Note : To reduce code clutter i have picked limited fields from api response but I made sure that data fields are complex (eg: nested list) and important. I give limited focus on developing pixel perfect UI rather focus on Clean Architecture, Readable, Maintainable and Reusable code with proper error handling 
+## Note : To reduce code clutter, I selected a limited number of fields from the API response, ensuring that the chosen data fields are both important and include complex structures (e.g., nested lists). I focused less on creating a pixel-perfect UI and more on implementing clean architecture, readable, maintainable, and reusable code with proper error handling.
 
 
 ## Developed By: Rostom Ali
