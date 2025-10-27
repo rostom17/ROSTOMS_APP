@@ -5,6 +5,7 @@ Assesssment by CifarX
 ## Getting Started
 
 ## api = "https://dummyjson.com/products"
+flutter version 3.35.5
 
 ## Features and Principles Implemented in this application:
 1. Pagination                   
@@ -20,6 +21,4 @@ Assesssment by CifarX
 To reduce code clutter, I selected a limited number of fields from the API response, ensuring that the chosen data fields are both important and include complex structures (e.g., nested lists). I focused less on creating a pixel-perfect UI and more on implementing clean architecture, readable, maintainable, and reusable code with proper error handling.
 
 
-## Developed By: Rostom Ali
-## Contact: rostom825@gmai.com
 
